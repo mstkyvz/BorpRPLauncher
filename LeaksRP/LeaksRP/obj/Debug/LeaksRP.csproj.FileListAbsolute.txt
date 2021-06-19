@@ -1,0 +1,10 @@
+C:\Users\yavuz\source\repos\LeaksRP\LeaksRP\obj\Debug\LeaksRP.csprojAssemblyReference.cache
+C:\Users\yavuz\source\repos\LeaksRP\LeaksRP\obj\Debug\LeaksRP.Form1.resources
+C:\Users\yavuz\source\repos\LeaksRP\LeaksRP\obj\Debug\LeaksRP.Properties.Resources.resources
+C:\Users\yavuz\source\repos\LeaksRP\LeaksRP\obj\Debug\LeaksRP.csproj.GenerateResource.cache
+C:\Users\yavuz\source\repos\LeaksRP\LeaksRP\bin\Debug\LeaksRP.exe.config
+C:\Users\yavuz\source\repos\LeaksRP\LeaksRP\bin\Debug\LeaksRP.exe
+C:\Users\yavuz\source\repos\LeaksRP\LeaksRP\bin\Debug\LeaksRP.pdb
+C:\Users\yavuz\source\repos\LeaksRP\LeaksRP\obj\Debug\LeaksRP.csproj.CopyComplete
+C:\Users\yavuz\source\repos\LeaksRP\LeaksRP\obj\Debug\LeaksRP.exe
+C:\Users\yavuz\source\repos\LeaksRP\LeaksRP\obj\Debug\LeaksRP.pdb
